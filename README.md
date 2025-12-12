@@ -18,6 +18,9 @@ O objetivo deste projeto foi projetar, codificar (RTL) e sintetizar um processad
 
 O sistema utiliza **E/S Mapeada em Memória (Memory Mapped I/O)** para interagir com os periféricos da placa DE2 (Chaves e LEDs) sem a necessidade de instruções de I/O dedicadas.
 
+## 🎥 Demo
+![Demonstração do Processador](docs/demo_placa.gif)
+
 ## ⚙️ Características Técnicas
 
 * **Arquitetura:** RISC 32-bits (Harvard modificado internamente).
